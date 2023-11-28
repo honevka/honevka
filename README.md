@@ -38,15 +38,7 @@
 
 <br/>
 
-### 📞 Связаться со мной:
 
-  <div id="badges">
-    <a class="href-telegram" href="https://t.me/ropenka" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-    <a href="https://vk.com/honevka" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="vk"/>
-    </a>
      <a href="https://www.linkedin.com/in/%D0%BB%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0-%D1%89%D0%B5%D0%B3%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0-9018a0268" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
