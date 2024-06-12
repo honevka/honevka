@@ -14,8 +14,7 @@
 
 | Название                                                          | Дата              | Должность|
 | ----------------------------------------------------------------| :---------------: |--------------------|
-| Верстка сайтов             | 03/2022 - 11/2022|frontend developer (html, css, scss, js / wordpress / tilda) |
-| Компания "MIND Software"                          | 11/2022 - н.в. |frontend developer (vue, vuetify, nuxt)|
+| Фриланс            | 03/2022 - н.в.|frontend developer (html, css, scss, js, wordpress, tilda, vue, vuetify, nuxt) |
 
 
 <br/>
